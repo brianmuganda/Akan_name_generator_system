@@ -25,3 +25,9 @@ nav>ul>li>a:hover{
     background-color: rgba(221, 109, 35, 0.678);
     color: rgba(0, 35, 122, 0.7);
 }
+.Aboutus{
+    display: flex;
+    flex-direction: row;
+    background-color: #1E708A;
+    text-align: center;
+    width: 100%;
