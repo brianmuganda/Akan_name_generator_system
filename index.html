@@ -36,7 +36,7 @@
     </div>
     <div class="form1">
      <div id="form" class="form">
-        <form name="myForm" class="form" onsubmit="validate();">
+        <form name="myForm" class="form" onsubmit="return false;">
             <div class="form-group">
               <label for="number">Year of Birth:</label>
               <input type="number" class="form-control" id="year" placeholder="1998" name="year">
@@ -64,6 +64,7 @@
             </div>
             <button type="submit" class="btn btn-primary" onclick="findName();">Get Name</button>
             <br>
+            <p id="display"></p>
           </form>
           
 
