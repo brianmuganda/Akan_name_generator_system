@@ -6,7 +6,7 @@ https://www.figma.com/file/oa1OrO8FHS8DNJvMln8B5w/Akan-Name-Generator?node-id=0%
 ## Description
 { This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name}
 ## Setup/Installation Requirements
-input you name , date of birth and select gender then click submit button to get your akan name 
+input year, month,date of birth and select gender then click submit button to get your akan name 
 the system does not require any other dependancies to run
 ## Known Bugs
 There are currently no known bugs in the system.
